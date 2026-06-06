@@ -2,8 +2,6 @@
 
 **Near-Earth Object Impact Visualization & 3D Orbital Simulation System**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://impactviz-9ewfgbr7y2fxbrrvtv7aeb.streamlit.app/)
-
 **Deployed App Link:** [https://impactviz-9ewfgbr7y2fxbrrvtv7aeb.streamlit.app/](https://impactviz-9ewfgbr7y2fxbrrvtv7aeb.streamlit.app/)
 
 **NASA API Key:** `S0AmYT4r2WkXRmVq7yfDUC24c1jpByzXQwdV1eFa`
