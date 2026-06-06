@@ -6,6 +6,8 @@
 
 **Deployed App Link:** [https://impactviz-9ewfgbr7y2fxbrrvtv7aeb.streamlit.app/](https://impactviz-9ewfgbr7y2fxbrrvtv7aeb.streamlit.app/)
 
+**NASA API Key:** `S0AmYT4r2WkXRmVq7yfDUC24c1jpByzXQwdV1eFa`
+
 ImpactViz is a comprehensive scientific visualization tool designed to track, simulate, and analyze the potential impacts of Near-Earth Objects (NEOs). Using live data from NASA and the USGS, ImpactViz brings orbital mechanics and planetary defense to your browser.
 
 ---
